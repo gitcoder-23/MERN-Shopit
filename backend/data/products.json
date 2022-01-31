@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Sandisk Ultra 128GB Memory Card",
+    "price": "89.34",
+    "description": "SanDisk SDHC and SDXC memory cards offer enough storage space to meet the memory demands of today's high-megapixel digital cameras. Available in capacities 32GB and 64GB2, these cards can store thousands of high-resolution photos and all your favorite HD video clips.",
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "products/617NtexaW2L._AC_UY218_",
+        "url": "https://m.media-amazon.com/images/I/617NtexaW2L._AC_UY218_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numofReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Wyze Cam 1080p HD Indoor Wireless",
+    "price": "300.65",
+    "description": "Wyze Cam 1080p HD Indoor Wireless Smart Home Camera Wyze Cam 1080p HD .",
+    "rating": 3,
+    "images": [
+      {
+        "public_id": "products/61B04f0ALWL._AC_UY218_",
+        "url": "https://m.media-amazon.com/images/I/61B04f0ALWL._AC_UY218_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 500,
+    "num0fReviews": 382,
+    "reviews": []
+  },
+  {
+    "name": "Fujifilm Instax",
+    "price": "70.34",
+    "description": "Fujifilm Instax Mini Instant Film Twin Pack (White).",
+    "rating": 2.5,
+    "images": [
+      {
+        "public_id": "products/813oF-FY01L._AC_UY218_",
+        "url": "https://m.media-amazon.com/images/I/813oF-FY01L._AC_UY218_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 503,
+    "numofReviews": 322,
+    "reviews": []
+  },
+  {
+    "name": "AmazonBasics High-Speed HDMI Cable",
+    "price": "839.34",
+    "description": "AmazonBasics High-Speed HDMI Cable.",
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "products/61pBvlYVPxL._AC_UY218_",
+        "url": "https://m.media-amazon.com/images/I/61pBvlYVPxL._AC_UY218_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numofReviews": 32,
+    "reviews": []
+  }
+]

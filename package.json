@@ -1,0 +1,32 @@
+{
+  "name": "mern-shopit-app",
+  "sum_git": "https://github.com/suman-dev-cmd/shop-backend",
+  "ghulam_tut": "https://github.com/ghulamabbas2",
+  "heroku-link": "https://mern-shopit-backend.herokuapp.com",
+  "version": "1.0.0",
+  "description": "Full Ecommerce Site Using MERN",
+  "main": "server.js",
+  "scripts": {
+    "on": "node backend/server.js",
+    "start": "nodemon backend/server.js",
+    "dev": "set NODE_ENV=DEVELOPMENT & nodemon backend/server.js",
+    "prod": "set NODE_ENV=PRODUCTION & nodemon backend/server.js",
+    "seeder": "node backend/utils/seeder.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhat",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.7",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0"
+  }
+}

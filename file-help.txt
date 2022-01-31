@@ -1,0 +1,18 @@
+https://mailtrap.io/inboxes/1609913/messages
+user- prabhatece21@gmail.com
+pwd: Source2@code
+
+// Integrations
+Nodemailer
+
+var transport = nodemailer.createTransport({
+  host: "smtp.mailtrap.io",
+  port: 2525,
+  auth: {
+    user: "da4f0ef0d750d4",
+    pass: "9446da801f4d47"
+  }
+});
+
+// API Links
+https://mern-shopit-backend.herokuapp.com/api/v1/allproducts
