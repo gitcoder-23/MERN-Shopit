@@ -16,3 +16,6 @@ var transport = nodemailer.createTransport({
 
 // API Links
 https://mern-shopit-backend.herokuapp.com/api/v1/allproducts
+
+// Postman Links
+https://documenter.getpostman.com/view/11720158/UVeDrn4h
